@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SwitchCaseDemo</string>
+    <string name="user_prompt">Enter App Name</string>
+</resources>
