@@ -66,6 +66,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     SwitchCaseDemoTheme {
-        Greeting("Teesside University")
+        Greeting("Middlesbrough University")
     }
 }
